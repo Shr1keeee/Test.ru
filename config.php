@@ -29,9 +29,9 @@
  define('BEZ_NO_DB_SELECT','Данная БД отсутствует на сервере');
 
  //Адрес хоста сайта
- define('BEZ_HOST','http://test.ru'. $_SERVER['HTTP_HOST'] .'/');
+ define('BEZ_HOST','.......'. $_SERVER['HTTP_HOST'] .'/');
 
 //Адрес почты от кого отправляем
- define('BEZ_MAIL_AUTOR','Регистрация на http://bezramok-tlt.ru <no-reply@bezramok-tlt.ru>');
+ define('BEZ_MAIL_AUTOR','Регистрация на .....');
 ?>
  
